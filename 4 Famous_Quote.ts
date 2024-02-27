@@ -1,0 +1,1 @@
+console.log('Stephen King once said, “Amateurs sit and wait for inspiration, the rest of us just get up and go to work.”');
